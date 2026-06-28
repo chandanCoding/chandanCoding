@@ -75,6 +75,18 @@ Production-patterned projects — provider-agnostic, runnable offline (no API ke
 | 🏛️ [regulatory-reporting-copilot](https://github.com/chandanCoding/regulatory-reporting-copilot) | Capital-markets reporting: eligibility, validation, ACK/NACK prediction |
 | 📉 [anomaly-detection-trades](https://github.com/chandanCoding/anomaly-detection-trades) | Anomaly detection, volume forecasting, reconciliation break detection |
 
+### 🧪 Applied ML & Data Foundations
+Core ML / data engineering building blocks.
+
+| Project | What it demonstrates |
+|---------|----------------------|
+| 🤖 [rag-knowledge-assistant](https://github.com/chandanCoding/rag-knowledge-assistant) | Retrieval-Augmented Generation — chunking, vector retrieval, grounded answers |
+| 🚀 [ml-serving-api](https://github.com/chandanCoding/ml-serving-api) | MLOps — FastAPI model-serving API with Docker & tests |
+| 💬 [nlp-sentiment-analyzer](https://github.com/chandanCoding/nlp-sentiment-analyzer) | NLP text classification (TF-IDF + Logistic Regression) |
+| 🔮 [ml-churn-predictor](https://github.com/chandanCoding/ml-churn-predictor) | End-to-end scikit-learn pipeline with evaluation, persistence & tests |
+| 🧠 [cnn-image-classifier](https://github.com/chandanCoding/cnn-image-classifier) | Deep learning — a PyTorch CNN image classifier |
+| 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
+
 ### 📊 GitHub Stats
 
 <p align="center">
