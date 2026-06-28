@@ -61,17 +61,19 @@
 - **AI-102** — Azure AI Engineer Associate
 - **AZ-204** — Azure Developer Associate
 
-### 🚀 Open-Source AI / ML Demos
-Compact, runnable demos of the core building blocks behind production GenAI & ML systems.
+### 🚀 Open-Source GenAI / Agentic Engineering
+Production-patterned projects — provider-agnostic, runnable offline (no API keys), zero runtime dependencies, all test-covered.
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| 🤖 [rag-knowledge-assistant](https://github.com/chandanCoding/rag-knowledge-assistant) | Retrieval-Augmented Generation — chunking, vector retrieval, grounded answers |
-| 🚀 [ml-serving-api](https://github.com/chandanCoding/ml-serving-api) | MLOps — FastAPI model-serving API with Docker & tests |
-| 💬 [nlp-sentiment-analyzer](https://github.com/chandanCoding/nlp-sentiment-analyzer) | NLP document/text classification (TF-IDF + Logistic Regression) |
-| 🔮 [ml-churn-predictor](https://github.com/chandanCoding/ml-churn-predictor) | End-to-end scikit-learn pipeline with evaluation, persistence & tests |
-| 🧠 [cnn-image-classifier](https://github.com/chandanCoding/cnn-image-classifier) | Deep learning — a PyTorch CNN image classifier |
-| 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
+| 🧭 [agentic-orchestrator](https://github.com/chandanCoding/agentic-orchestrator) | Multi-agent orchestration framework — hierarchical routing, tool-calling, tracing |
+| 🔎 [rag-platform](https://github.com/chandanCoding/rag-platform) | Hybrid retrieval (BM25 + dense), RRF fusion, reranking, evaluation harness |
+| 🔐 [mcp-tool-gateway](https://github.com/chandanCoding/mcp-tool-gateway) | Secure MCP tool plane — JWT + scopes, rate limiting, prompt-injection inspection, OpenAPI |
+| 🧩 [agentic-rag-assistant](https://github.com/chandanCoding/agentic-rag-assistant) | Multi-hop agentic RAG with faithfulness-gated self-correction |
+| 🗄️ [text-to-sql-agent](https://github.com/chandanCoding/text-to-sql-agent) | Schema-aware NL→SQL with guardrails, sandboxed execution & self-correction |
+| 📈 [llm-observability](https://github.com/chandanCoding/llm-observability) | Tracing, token-cost accounting, and LLM evaluation metrics |
+| 🏛️ [regulatory-reporting-copilot](https://github.com/chandanCoding/regulatory-reporting-copilot) | Capital-markets reporting: eligibility, validation, ACK/NACK prediction |
+| 📉 [anomaly-detection-trades](https://github.com/chandanCoding/anomaly-detection-trades) | Anomaly detection, volume forecasting, reconciliation break detection |
 
 ### 📊 GitHub Stats
 
