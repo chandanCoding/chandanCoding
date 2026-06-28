@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Chandan Swarup 👋</h1>
+<h1 align="center">Hi, I'm Chandan Swarup Swain 👋</h1>
 <p align="center">
-  <b>Senior Lead Full Stack Developer</b> · building toward <b>Cloud AI / ML</b> systems<br>
-  Ex-EY · M.Tech, Software Engineering — BITS Pilani · 🇮🇳 India
+  <b>Gen AI &amp; Agentic Solutions Architect</b> · 9 years building mission-critical, cloud-native platforms<br>
+  Banking · Capital Markets · Tax &amp; Compliance &nbsp;|&nbsp; 📍 Mumbai, India
 </p>
 
 <p align="center">
@@ -13,43 +13,65 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏗️ Senior Lead Full Stack Developer who **builds scalable software** and turns concepts into robust, production-grade solutions.
-- ☁️ Hands-on with **cloud AI architecture on Azure and GCP** — enterprise RAG / search, identity-aware access (Entra ID, Okta, OAuth/OBO, workload identity federation), and security-first design.
-- 🤖 Applying that engineering depth to **Data, Machine Learning & AI**: data analysis, classical ML, deep learning, NLP, and LLM / RAG systems.
-- 🎓 **M.Tech, Software Engineering** — BITS Pilani · previously at **EY**.
-- 🌱 Currently sharpening **MLOps** and **generative-AI application** development, shipping each as an open-source project.
+- 🤖 **Gen AI & Agentic Solutions Architect** with 9 years architecting mission-critical, cloud-native platforms across **Banking, Capital Markets, and Tax & Compliance**.
+- 🧠 Specialist in **production agentic AI** — LangGraph orchestration, hierarchical multi-agent topologies, and **MCP / OpenAPI** tool integration behind enterprise API governance.
+- 🔎 **Enterprise Generative AI**: RAG, Text-to-SQL, and semantic + hybrid search over regulated financial data, with GenAI observability and LLM evaluation.
+- 📈 **Applied ML** on high-volume transactional data — anomaly & break detection, predictive NACK / failure classification, document classification (NLP), and forecasting.
+- ☁️ Delivered on a **production Azure** stack, with hands-on **GCP (Vertex AI, Gemini)** fluency.
+- 🏛️ Currently **Gen AI Solutions Architect @ Publicis Sapient** — on Delta Capita's (ex-DTCC) **Report Hub®**, post-trade regulatory reporting at **1.4B+ transactions/yr across 14 regimes & 9 jurisdictions** for tier-1 global banks.
+- 🎓 **M.Tech, Software Engineering — BITS Pilani** (AI/ML, Distributed Cloud Computing).
 - 📫 Reach me at **chandan.swarup1@gmail.com**.
 
-### 🛠️ Tech Stack
+### 🧰 What I Work With
 
-**Data / ML / AI**
+**Generative & Agentic AI**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-5A4FCF?style=flat)
+![Text--to--SQL](https://img.shields.io/badge/Text--to--SQL-5A4FCF?style=flat)
+
+**Applied ML & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1A7AC0?style=flat&logo=apache&logoColor=white)
 
 **Cloud & Platform**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🚀 Featured AI / ML Projects
+**Engineering**
+
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### 📜 Certifications
+- **AZ-305** — Azure Solutions Architect Expert
+- **AI-102** — Azure AI Engineer Associate
+- **AZ-204** — Azure Developer Associate
+
+### 🚀 Open-Source AI / ML Demos
+Compact, runnable demos of the core building blocks behind production GenAI & ML systems.
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
+| 🤖 [rag-knowledge-assistant](https://github.com/chandanCoding/rag-knowledge-assistant) | Retrieval-Augmented Generation — chunking, vector retrieval, grounded answers |
+| 🚀 [ml-serving-api](https://github.com/chandanCoding/ml-serving-api) | MLOps — FastAPI model-serving API with Docker & tests |
+| 💬 [nlp-sentiment-analyzer](https://github.com/chandanCoding/nlp-sentiment-analyzer) | NLP document/text classification (TF-IDF + Logistic Regression) |
 | 🔮 [ml-churn-predictor](https://github.com/chandanCoding/ml-churn-predictor) | End-to-end scikit-learn pipeline with evaluation, persistence & tests |
 | 🧠 [cnn-image-classifier](https://github.com/chandanCoding/cnn-image-classifier) | Deep learning — a PyTorch CNN image classifier |
-| 💬 [nlp-sentiment-analyzer](https://github.com/chandanCoding/nlp-sentiment-analyzer) | NLP text classification (TF-IDF + Logistic Regression) |
-| 🚀 [ml-serving-api](https://github.com/chandanCoding/ml-serving-api) | MLOps — FastAPI model-serving API with Docker & tests |
-| 🤖 [rag-knowledge-assistant](https://github.com/chandanCoding/rag-knowledge-assistant) | Generative AI — a Retrieval-Augmented Generation assistant |
+| 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
 
 ### 📊 GitHub Stats
 
@@ -58,4 +80,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanCoding&layout=compact" alt="Top languages">
 </p>
 
-<p align="center"><i>Security-first engineering — now applied to AI. 🧠</i></p>
+<p align="center"><i>Turning complex regulatory mandates into intelligent, autonomous systems. 🧠</i></p>
