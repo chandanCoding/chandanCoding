@@ -27,7 +27,6 @@
 **Generative & Agentic AI**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-5A4FCF?style=flat)
@@ -39,8 +38,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1A7AC0?style=flat&logo=apache&logoColor=white)
 
 **Cloud & Platform**
 
