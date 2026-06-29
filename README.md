@@ -66,6 +66,7 @@ Production-patterned projects — provider-agnostic, runnable offline (no API ke
 
 | Project | What it demonstrates |
 |---------|----------------------|
+| ⭐ [production-agentic-rag](https://github.com/chandanCoding/production-agentic-rag) | **Flagship** — end-to-end agentic RAG: hybrid retrieval, multi-hop planning, self-correction, guardrails, evaluation, observability, CLI + API |
 | 🧭 [agentic-orchestrator](https://github.com/chandanCoding/agentic-orchestrator) | Multi-agent orchestration framework — hierarchical routing, tool-calling, tracing |
 | 🔎 [rag-platform](https://github.com/chandanCoding/rag-platform) | Hybrid retrieval (BM25 + dense), RRF fusion, reranking, evaluation harness |
 | 🔐 [mcp-tool-gateway](https://github.com/chandanCoding/mcp-tool-gateway) | Secure MCP tool plane — JWT + scopes, rate limiting, prompt-injection inspection, OpenAPI |
