@@ -85,11 +85,4 @@ Core ML / data engineering building blocks.
 | 🧠 [cnn-image-classifier](https://github.com/chandanCoding/cnn-image-classifier) | Deep learning — a PyTorch CNN image classifier |
 | 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandanCoding&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanCoding&layout=compact" alt="Top languages">
-</p>
-
 <p align="center"><i>Turning complex regulatory mandates into intelligent, autonomous systems. 🧠</i></p>
