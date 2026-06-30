@@ -84,5 +84,3 @@ Core ML / data engineering building blocks.
 | 🔮 [ml-churn-predictor](https://github.com/chandanCoding/ml-churn-predictor) | End-to-end scikit-learn pipeline with evaluation, persistence & tests |
 | 🧠 [cnn-image-classifier](https://github.com/chandanCoding/cnn-image-classifier) | Deep learning — a PyTorch CNN image classifier |
 | 📊 [data-eda-toolkit](https://github.com/chandanCoding/data-eda-toolkit) | Exploratory data analysis & visualization — pandas, seaborn, matplotlib |
-
-<p align="center"><i>Turning complex regulatory mandates into intelligent, autonomous systems. 🧠</i></p>
